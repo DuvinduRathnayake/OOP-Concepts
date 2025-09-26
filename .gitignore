@@ -1,0 +1,14 @@
+@"
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.opendb
+.idea/
+Thumbs.db
+.DS_Store
+*.vsidx
+*.cache
+"@ | Out-File -Encoding UTF8 .gitignore
