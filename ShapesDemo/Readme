@@ -1,0 +1,16 @@
+# ShapesDemo – Inheritance & Polymorphism (Practice)
+
+## Theory
+1) Why use an abstract class for `Shape`?
+2) Difference between overriding and overloading? Examples in this project?
+3) Pros/cons of inheritance vs composition here?
+
+## Coding
+- Add `Triangle(base, height, a, b, c)` with area (0.5*base*height) and perimeter (a+b+c).
+- Add `EquilateralTriangle(side)` as a specialized triangle.
+- Write a function that accepts `IEnumerable<Shape>` and returns the shape with the max area.
+- Add validation: disallow impossible triangles (triangle inequality).
+
+## Stretch
+- Add `IColored` interface (Color string), implement in some shapes, and print colors polymorphically.
+- Add `Scale(factor)` to `Shape` (abstract) and implement for each shape.
