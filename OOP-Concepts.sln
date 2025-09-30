@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankDemo", "BankDemo\BankDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesDemo", "ShapesDemo\ShapesDemo.csproj", "{0AE1794B-3B80-462C-A13C-38B23D403EA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServiceDemo", "NotificationServiceDemo\NotificationServiceDemo.csproj", "{B42159AE-8335-4603-9615-CA20FEDD4653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0AE1794B-3B80-462C-A13C-38B23D403EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE1794B-3B80-462C-A13C-38B23D403EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE1794B-3B80-462C-A13C-38B23D403EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42159AE-8335-4603-9615-CA20FEDD4653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42159AE-8335-4603-9615-CA20FEDD4653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42159AE-8335-4603-9615-CA20FEDD4653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42159AE-8335-4603-9615-CA20FEDD4653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
